@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e448553c3af6c49a056e18025dc5c5, type: 3}
+  m_Name: CSWeaponBob
+  m_EditorClassIdentifier: 
+  WalkSpeedMultiplier: 0.51
+  RunSpeedMultiplier: 0.873
+  EulerZAmount: 0.2
+  RunEulerZAmount: 0.23
+  EulerXAmount: 1.15
+  RunEulerXAmount: 1.85
+  idleBobbingSpeed: 0.02
+  WalkOscillationAmount: 0
+  RunOscillationAmount: 0
+  WalkLerpSpeed: 6
+  RunLerpSpeed: 5
